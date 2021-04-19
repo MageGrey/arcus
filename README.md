@@ -2,6 +2,7 @@
 This repository was created to document the project for the "arcus" keyboard and release the project files for do-it yourself enthusiasts. 
 The name is derived from the Latin word for arch, since the keyboard is of an arched (or curved, bowl-shaped) geometry.
 
+## Files
 There will be two versions created:
 - One version will feature a Kailh Choc, low-profile compatible keyboard. 
 - One version will feature a Kailh Box and Cherry MX compatible keyboard.
@@ -16,7 +17,7 @@ The angles between the rows are 16 degrees and 12 degrees between the columns ea
 
 The overall design is free floating and intended to be fixed to the desk by the 6-1 key. Other positions can work depending on the thumb cluster position.
 
-## Materials needed:
+## Materials needed
 - 3D-Printer (Resin printer only, tolerances are intended for accommodating resin shrinkage when curing)
 - Key switches from the corresponding manufacturer or compatible
 - Hot swap sockets (not essential if intended to be hard-wired)
