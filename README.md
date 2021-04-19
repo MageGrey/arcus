@@ -14,7 +14,7 @@ The design will include:
 The keyboards are set up in a 6x4 matrix with a modular 5-Key thumb cluster, so overall there will be 58 keys.
 The angles between the rows are 16 degrees and 12 degrees between the columns each.
 
-The overall design is free floating and intended to be fixed to the desk or by the 6-1 key.
+The overall design is free floating and intended to be fixed to the desk by the 6-1 key. Other positions can work depending on the thumb cluster position.
 
 Materials needed:
 - 3D-Printer (Resin printer only, tolerances are intended for accommodating resin shrinkage when curing)
