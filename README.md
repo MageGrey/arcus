@@ -1,5 +1,6 @@
 # arcus
-This repository was created to document the project for the "arcus" keyboard and release the project files for do-it yourself enthusiasts.
+This repository was created to document the project for the "arcus" keyboard and release the project files for do-it yourself enthusiasts. 
+The name is derived from the Latin word for arch, since the keyboard is of an arched (or curved, bowl-shaped) geometry.
 
 There will be two versions created.
 - One version will feature a Kailh Choc, low-profile compatible keyboard. 
@@ -23,3 +24,5 @@ Materials needed:
 - Diodes
 
 P.S. The project is at an early stage. Test print on your own risk.
+
+(c) Created by MageGrey April 19, 2021 (under GPL 3)
