@@ -17,8 +17,8 @@ The overall design is free floating and intended to be fixed to the desk or by t
 
 Materials needed:
 - 3D-Printer (Resin printer only, tolerances are intended for accommodating shrinkage when curing)
-- Keyswitches
-- Hot swap sockets
+- Key switches from the corresponding manufacturer or compatible
+- Hot swap sockets (not essential if intended to be hard-wired)
 - Wire
 - Diodes
 
