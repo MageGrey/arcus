@@ -17,7 +17,7 @@ The angles between the rows are 16 degrees and 12 degrees between the columns ea
 The overall design is free floating and intended to be fixed to the desk or by the 6-1 key.
 
 Materials needed:
-- 3D-Printer (Resin printer only, tolerances are intended for accommodating shrinkage when curing)
+- 3D-Printer (Resin printer only, tolerances are intended for accommodating resin shrinkage when curing)
 - Key switches from the corresponding manufacturer or compatible
 - Hot swap sockets (not essential if intended to be hard-wired)
 - Wire
@@ -25,4 +25,4 @@ Materials needed:
 
 P.S. The project is at an early stage. Test print on your own risk.
 
-(c) Created by user MageGrey April 19, 2021 under GPL 3
+Created by user MageGrey April 19, 2021 under GPL 3
