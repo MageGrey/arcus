@@ -28,4 +28,4 @@ P.S. The project is at an early stage. Test print on your own risk.
 Created by user MageGrey April 19, 2021 under GPL 3
 
 Image Gallery
-![Low-Profile 4x6 Keyboard](https://github.com/MageGrey/arcus/images//1-Kailh-Choc-Keyboard.jpg?raw=true)
+![Low-Profile 4x6 Keyboard](https://github.com/MageGrey/arcus/images/1-Kailh-Choc-Keyboard.jpg?raw=true)
