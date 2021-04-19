@@ -25,4 +25,4 @@ Materials needed:
 
 P.S. The project is at an early stage. Test print on your own risk.
 
-(c) Created by MageGrey April 19, 2021 (under GPL 3)
+(c) Created by user MageGrey April 19, 2021 under GPL 3
