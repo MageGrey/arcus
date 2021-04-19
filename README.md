@@ -26,6 +26,9 @@ The overall design is free floating and intended to be fixed to the desk by the 
 
 ## Image Gallery
 ![Low-Profile 4x6 Keyboard](https://github.com/MageGrey/arcus/blob/main/images/1-Kailh-Choc-Keyboard.jpg?raw=true)
+![Standard 4x6 Keyboard](https://github.com/MageGrey/arcus/blob/main/images/2-Kailh-Box-Keyboard.jpg?raw=true)
+![Low-Profile Keycap](https://github.com/MageGrey/arcus/blob/main/images/3-Kailh-Choc-Keycap.jpg?raw=true)
+![Standard Keycap](https://github.com/MageGrey/arcus/blob/main/images/4-Kailh-Box-Keycap.jpg?raw=true)
 
 P.S. The project is at an early stage. Test print on your own risk.
 Created by user MageGrey April 19, 2021 under GPL 3
