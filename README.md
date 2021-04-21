@@ -38,4 +38,6 @@ Created by user MageGrey April 19, 2021 under GPL 3
 ## Changelog:
 
 20210421 - Added keycap models in STL format for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
+20210421 - Added thumb cluster models in STL format for Box/Cherry and Choc variants.
+20210421 - Need to covert keypad STLs to smaller file size.
 
