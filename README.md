@@ -36,6 +36,6 @@ P.S. The project is at an early stage. Test print on your own risk. STL files ma
 Created by user MageGrey April 19, 2021 under GPL 3
 
 ## Changelog:
-20210421 - Added keycap STL models for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
-20210421 - Added thumb cluster STL models for Box/Cherry and Choc variants.
-20210421 - Added keypad STL models.
+- 20210421 - Added keycap STL models for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
+- 20210421 - Added thumb cluster STL models for Box/Cherry and Choc variants.
+- 20210421 - Added keypad STL models.
