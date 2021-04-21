@@ -29,7 +29,7 @@ The overall design is free floating and intended to be fixed to the desk by the 
 ![Standard 4x6 Keyboard](https://github.com/MageGrey/arcus/blob/main/images/2-Kailh-Box-Keyboard.jpg?raw=true)
 ![Low-Profile (Choc) Keycap](https://github.com/MageGrey/arcus/blob/main/images/3-Kailh-Choc-Keycap.jpg?raw=true)
 ![Standard (Box) Keycap](https://github.com/MageGrey/arcus/blob/main/images/4-Kailh-Box-Keycap.jpg?raw=true)
-![Standard (Cherry MX) Keycap](https://github.com/MageGrey/arcus/blob/main/images/5-Cherry MX-Keycap.jpg?raw=true)
+![Standard (Cherry MX) Keycap](https://github.com/MageGrey/arcus/blob/main/images/5-Cherry-MX-Keycap.jpg?raw=true)
 
 
 P.S. The project is at an early stage. Test print on your own risk.
