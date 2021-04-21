@@ -32,12 +32,10 @@ The overall design is free floating and intended to be fixed to the desk by the 
 ![Standard (Cherry MX) Keycap](https://github.com/MageGrey/arcus/blob/main/images/5-Cherry-MX-Keycap.jpg?raw=true)
 
 
-P.S. The project is at an early stage. Test print on your own risk.
+P.S. The project is at an early stage. Test print on your own risk. STL files may need repair prior printing (solid, voids).
 Created by user MageGrey April 19, 2021 under GPL 3
 
 ## Changelog:
-
-20210421 - Added keycap models in STL format for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
-20210421 - Added thumb cluster models in STL format for Box/Cherry and Choc variants.
-20210421 - Need to covert keypad STLs to smaller file size.
-
+20210421 - Added keycap STL models for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
+20210421 - Added thumb cluster STL models for Box/Cherry and Choc variants.
+20210421 - Added keypad STL models.
