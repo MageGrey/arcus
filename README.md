@@ -32,7 +32,11 @@ The overall design is free floating and intended to be fixed to the desk by the 
 ![Standard (Cherry MX) Keycap](https://github.com/MageGrey/arcus/blob/main/images/5-Cherry-MX-Keycap.jpg?raw=true)
 
 
-P.S. The project is at an early stage. Test print on your own risk. STL files may need repair prior printing (solid, voids).
+P.S. 
+- The project is at an early stage. 
+- Test print on your own risk. STL files may need repair prior printing (solid, voids).
+- You will need to print 2 thumb clusters, 2 keypads and 58 keycaps (Chose Kailh Box/Cherry or Kailh Choc Type).
+
 Created by user MageGrey April 19, 2021 under GPL 3
 
 ## Changelog:
