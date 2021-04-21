@@ -37,9 +37,8 @@ P.S.
 - Test print on your own risk. STL files may need repair prior printing (solid, voids).
 - You will need to print 2 thumb clusters, 2 keypads and 58 keycaps (Chose Kailh Box/Cherry or Kailh Choc Type).
 
-Created by user MageGrey April 19, 2021 under GPL 3
-
 ## Changelog:
+Created by user MageGrey April 19, 2021 under GPL 3.
 - 20210421 - Added keycap STL models for Cherry MX, Kailh Choc and Kailh Box variants (different stems).
 - 20210421 - Added thumb cluster STL models for Box/Cherry and Choc variants.
 - 20210421 - Added keypad STL models.
