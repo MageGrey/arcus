@@ -32,3 +32,8 @@ The overall design is free floating and intended to be fixed to the desk by the 
 
 P.S. The project is at an early stage. Test print on your own risk.
 Created by user MageGrey April 19, 2021 under GPL 3
+
+## Changelog:
+
+20210421 - Added STL Models for Cherry MX, Kailh Choc and Kailh Box stem variants.
+
