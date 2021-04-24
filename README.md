@@ -47,4 +47,4 @@ Created by user MageGrey April 19, 2021 under GPL 3.
 - 20210421 - Added thumb cluster STL models for Box/Cherry and Choc variants.
 - 20210421 - Added 4x6 keypad STL models.
 - 20210424 - Added models of the fully assembled keypads for visual demonstration (without thumb clusters).
-- 20210424 - Added 3x5 and 3x6 keypads.
+- 20210424 - Added 3x5 and 3x6 keypad STL models. Not tested, use at your own risk.
