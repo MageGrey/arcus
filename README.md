@@ -30,7 +30,8 @@ The overall design is free floating and intended to be fixed to the desk by the 
 ![Low-Profile (Choc) Keycap](https://github.com/MageGrey/arcus/blob/main/images/3-Kailh-Choc-Keycap.jpg?raw=true)
 ![Standard (Box) Keycap](https://github.com/MageGrey/arcus/blob/main/images/4-Kailh-Box-Keycap.jpg?raw=true)
 ![Standard (Cherry MX) Keycap](https://github.com/MageGrey/arcus/blob/main/images/5-Cherry-MX-Keycap.jpg?raw=true)
-
+![Standard (Part Assembly) Keycap](https://github.com/MageGrey/arcus/blob/main/images/6-Box-Part-Assembly.jpg?raw=true)
+![Standard (Part Assembly, Back) Keycap](https://github.com/MageGrey/arcus/blob/main/images/7-Box-Part-Assembly-Back.jpg?raw=true)
 
 P.S. 
 - The project is at an early stage. 
