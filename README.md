@@ -39,7 +39,8 @@ There is no case (maybe at a later time)
 P.S. 
 - The project is at an early stage. 
 - Test print on your own risk. STL files may need repair prior printing (solid, voids).
-- You will need to print 2 thumb clusters, 2 keypads and 58 keycaps (Chose Kailh Box/Cherry or Kailh Choc Type).
+- You will need to print 2 thumb clusters, 2 keypads and 58 keycaps (Chose Kailh Box/Cherry or Kailh Choc Type) (4x6 version).
+- Do not ask me about electrical wiring yet.
 
 ## Changelog:
 Created by user MageGrey April 19, 2021 under GPL 3.
